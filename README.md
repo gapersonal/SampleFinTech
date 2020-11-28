@@ -16,3 +16,6 @@ Creating a sub list
 - point 2
     - sub point
     - sub point 2
+
+    ![Image Description](http://picsum.photos/600/600)
+    
